@@ -5,4 +5,5 @@ using namespace rack;
 
 extern Plugin* pluginInstance;
 
-extern Model* modelAttenuator;
+extern Model* modelAddition;
+extern Model* modelSubtraction;

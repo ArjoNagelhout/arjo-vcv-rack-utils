@@ -1,25 +1,25 @@
 {
-  "slug": "arjovcvrackutils",
-  "name": "arjovcvrackutils",
-  "version": "2.6.0",
+  "slug": "arjo_vcv_rack_utils",
+  "name": "arjo_vcv_rack_utils",
+  "version": "2.0.0",
   "license": "MIT",
   "brand": "Arjo",
   "author": "Arjo",
-  "authorEmail": "support@vcvrack.com",
-  "pluginUrl": "https://vcvrack.com/Free",
-  "authorUrl": "https://vcvrack.com/",
-  "manualUrl": "https://vcvrack.com/Free#manual",
-  "sourceUrl": "https://github.com/VCVRack/Fundamental",
-  "changelogUrl": "https://vcvrack.com/Free#changelog",
   "minRackVersion": "2.4.0",
   "modules": [
     {
-      "slug": "Attenuator",
-      "name": "Attenuator",
+      "slug": "Addition",
+      "name": "Addition",
       "description": "",
-      "manualUrl": "https://vcvrack.com/Free#VCO",
       "tags": [
-        "Attenuator",
+        "Utility"
+      ]
+    },
+    {
+      "slug": "Subtraction",
+      "name": "Subtraction",
+      "description": "",
+      "tags": [
         "Utility"
       ]
     }
