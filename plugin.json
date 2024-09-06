@@ -1,0 +1,16 @@
+{
+  "slug": "Arjo Utils",
+  "name": "arjo-vcv-rack-utils",
+  "version": "2.6.0",
+  "license": "",
+  "brand": "Arjo",
+  "author": "Arjo",
+  "minRackVersion": "2.4.0",
+  "modules": [
+    {
+      "slug": "Attenuator",
+      "name": "Attenuator",
+      "tags": [ "Utility" ]
+    }
+  ]
+}
