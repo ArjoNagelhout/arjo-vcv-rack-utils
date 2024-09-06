@@ -1,16 +1,27 @@
 {
-  "slug": "Arjo Utils",
-  "name": "arjo-vcv-rack-utils",
+  "slug": "arjovcvrackutils",
+  "name": "arjovcvrackutils",
   "version": "2.6.0",
-  "license": "",
+  "license": "MIT",
   "brand": "Arjo",
   "author": "Arjo",
+  "authorEmail": "support@vcvrack.com",
+  "pluginUrl": "https://vcvrack.com/Free",
+  "authorUrl": "https://vcvrack.com/",
+  "manualUrl": "https://vcvrack.com/Free#manual",
+  "sourceUrl": "https://github.com/VCVRack/Fundamental",
+  "changelogUrl": "https://vcvrack.com/Free#changelog",
   "minRackVersion": "2.4.0",
   "modules": [
     {
       "slug": "Attenuator",
       "name": "Attenuator",
-      "tags": [ "Utility" ]
+      "description": "",
+      "manualUrl": "https://vcvrack.com/Free#VCO",
+      "tags": [
+        "Attenuator",
+        "Utility"
+      ]
     }
   ]
 }
