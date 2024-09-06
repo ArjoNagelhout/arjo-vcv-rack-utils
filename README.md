@@ -11,6 +11,5 @@ brew install jq
 export RACK_DIR=~/Documents/Rack-SDK
 cd ~/Documents/Experiments/arjo-vcv-rack-utils
 make
-make dist
-cp -R dist/arjo-vcv-rack-utils ~/Documents/Rack2/plugins-mac-arm64
+make install
 ```
